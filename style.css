@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    width: 210px;
+    border: 2px solid #ccc;
+    margin: 100px auto;
+    padding: 12px;
+}
+
+li{
+    border: 1px dashed rgb(49, 226, 14);
+    padding: 5px;
+    cursor: pointer;
+}
+ul{
+    list-style: none;
+
+}
